@@ -1,7 +1,7 @@
 # Song-To-MP3
 Python script to download from Spotify or Youtube.
 
-## Package Installation Instructions
+## Package Installation Instructions:
 To use the packages mentioned in your Python code, you need to install them first. Below are the installation instructions for each of the packages:
 
 ### Spotify
@@ -22,7 +22,7 @@ This is part of the Google API client library. To install it, you can use pip:
 pip install google-api-python-client
 ```
 
-### Obtaining API Credentials
+## Obtaining API Credentials:
 To interact with the Spotify and YouTube APIs, you need to obtain the necessary API credentials. Here are the steps to get the credentials:
 
 ### Spotify API Credentials:
@@ -44,5 +44,5 @@ To interact with the Spotify and YouTube APIs, you need to obtain the necessary 
 9. Your API key will be generated. Make sure to restrict the usage of the key to prevent unauthorized access. For example, you can restrict the key to only allow usage from your server's IP address.
 10. Keep your YouTube API key safe and do not share it publicly.
 
-### Important Note:
+## Important Note:
 Remember to store these credentials securely and avoid sharing them in public repositories or websites, as they grant access to your respective developer accounts and data. Once you have obtained the Spotify API credentials and YouTube API key, you can use them in the script provided earlier to make authenticated requests to these APIs.
