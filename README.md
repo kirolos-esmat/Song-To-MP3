@@ -4,34 +4,35 @@ Python script to download from Spotify or Youtube.
 ## Package Installation Instructions:
 
 ### Spotify
-This is a Python library for the Spotify Web API. To install it, you can use pip, the package manager for Python:
+This is a Python library for the Spotify Web API. To install it, you can use pip,
 ```bash
 pip install spotipy
 ```
 
-### pytube
-This is a library to work with YouTube videos. You can install it using pip:
+### Pytube
+This is a library to work with YouTube videos. To install it, you can use pip,
 ```bash
 pip install pytube
 ```
 
-### googleapiclient
-This is part of the Google API client library. To install it, you can use pip:
+### Googleapiclient
+This is part of the Google API client library. To install it, you can use pip,
 ```bash
 pip install google-api-python-client
 ```
 
 ## Obtaining API Credentials:
-To interact with the Spotify and YouTube APIs, you need to obtain the necessary API credentials. Here are the steps to get the credentials:
+To interact with the Spotify and YouTube APIs, you need to obtain the necessary API credentials.
+Here are the steps to get the credentials:
 
-### Spotify API Credentials:
+### Spotify API Credentials
 1. Go to the Spotify Developer Dashboard: https://developer.spotify.com/dashboard/applications
 2. Login or create a new Spotify account if you don't have one.
 3. Click on the "Create an App" button.
 4. Fill out the necessary information for your application (name, description, etc.).
 5. Once your app is created, you'll see your Client ID and Client Secret. Keep these credentials safe, as they are used to authenticate your app with the Spotify API.
 
-### YouTube API Key:
+### YouTube API Key
 1. Go to the Google Developers Console: https://console.developers.google.com/
 2. Create a new project by clicking on the project dropdown and selecting "New Project."
 3. Give your project a name and select the appropriate organization and billing account if prompted.
