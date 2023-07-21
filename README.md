@@ -2,7 +2,6 @@
 Python script to download from Spotify or Youtube.
 
 ## Package Installation Instructions:
-To use the packages mentioned in your Python code, you need to install them first. Below are the installation instructions for each of the packages:
 
 ### Spotify
 This is a Python library for the Spotify Web API. To install it, you can use pip, the package manager for Python:
@@ -45,4 +44,4 @@ To interact with the Spotify and YouTube APIs, you need to obtain the necessary 
 10. Keep your YouTube API key safe and do not share it publicly.
 
 ## Important Note:
-Remember to store these credentials securely and avoid sharing them in public repositories or websites, as they grant access to your respective developer accounts and data. Once you have obtained the Spotify API credentials and YouTube API key, you can use them in the script provided earlier to make authenticated requests to these APIs.
+Remember to store these credentials securely and avoid sharing them in public repositories or websites, as they grant access to your respective developer accounts and data. Once you have obtained the Spotify API credentials and YouTube API key, you can use them in the script to make authenticated requests to these APIs.
