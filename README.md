@@ -1,4 +1,4 @@
-# Song-To-MP3
+# Song-To-MP3-Downloader
 
 This Python script can:
 ```bash
