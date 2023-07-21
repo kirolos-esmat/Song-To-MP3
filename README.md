@@ -1,5 +1,10 @@
 # Song-To-MP3
-Python script to download from Spotify or Youtube.
+
+This Python script can:
+```bash
+- Download a song from Spotify or YouTube link.
+- Download songs from a Spotify or YouTube playlist.
+```
 
 ## Package Installation Instructions:
 
