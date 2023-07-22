@@ -105,7 +105,7 @@ def download_ytvid_as_mp3(yt_link):
     base, ext = os.path.splitext(out_file)
     new_file = base + '.mp3'
     os.rename(out_file, new_file)
-    print(yt.title + " has been successfully downloaded.")
+    print(yt.title + " has been successfully downloaded.\n")
 
 # ---------------------------------------------------------------------------------------------------------------------- #
 
